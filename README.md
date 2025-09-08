@@ -92,9 +92,8 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 ## 🔍 Currently Exploring
 
 - Google Data Analytics
-- Cloud-based analytics platforms (AWS/Azure)
+- Upskilling with Power BI 
 - Python for Data Science
-- Advanced statistical modeling
 
 ---
 
