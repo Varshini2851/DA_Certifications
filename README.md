@@ -22,6 +22,11 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 - **Certificate ID:** `A4JEP89877` 
 - **Skills:** Data Visualization, Dashboard Creation, Advanced Tableau Techniques
 
+#### **Introduction to Generative AI Fundamentals**
+- **Provider:** Google Cloud
+- **Type:** Career Badge
+- **Skills:** Generative AI Concepts, Machine Learning Fundamentals, AI Applications in Analytics
+
 ---
 
 ### 💼 **Industry Experience**
