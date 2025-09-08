@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varshini S
 
-## 📊 Data Analytics Professional | 🎯 Passionate About Turning Data Into Insights
+## 📊 Data Analytics Aspirant | 🎯 Passionate About Turning Data Into Insights
 
 Welcome! This GitHub profile serves as a portfolio of my journey in data analytics. I'm a passionate learner with hands-on experience in data analysis, as demonstrated by my completion of the Deloitte Data Analytics Job Simulation. I've built a strong technical foundation through certifications in SQL, Tableau, and Excel to deliver data-driven solutions.
 
