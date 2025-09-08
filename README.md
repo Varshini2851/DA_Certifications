@@ -71,7 +71,6 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 ### 🔍 **Specialized Areas**
 - **Data Analysis & Interpretation**
 - **Business Intelligence**
-- **Forensic Technology**
 - **Statistical Analysis**
 - **Dashboard Development**
 - **Data Visualization**
@@ -84,7 +83,3 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 - **Continuous Learning**
 
 ---
-
-## 📚 Learning Journey
-
-My journey in data analytics represents a structured approach to mastering the field:
