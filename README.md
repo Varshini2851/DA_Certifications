@@ -61,12 +61,6 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 
 ---
 
-## 💡 Skills & Technologies
-
-### 📈 **Data Analysis & Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔍 **Specialized Areas**
 - **Data Analysis & Interpretation**
@@ -83,3 +77,26 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 - **Continuous Learning**
 
 ---
+
+## 🎯 What I Bring to the Table
+
+✅ **Comprehensive Skill Set:** From foundational data concepts to advanced visualization tools  
+✅ **Industry Experience:** Real-world application through Deloitte simulation  
+✅ **Continuous Learning:** Committed to staying current with industry trends  
+✅ **Practical Application:** Hands-on experience with major data analytics tools  
+✅ **Professional Development:** Focus on career-ready skills and best practices  
+
+---
+
+
+## 🔍 Currently Exploring
+
+- Google Data Analytics
+- Cloud-based analytics platforms (AWS/Azure)
+- Python for Data Science
+- Advanced statistical modeling
+
+---
+
+*"Data is the new oil, but analytics is the refinery that turns it into valuable insights."*
+
