@@ -52,6 +52,12 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 - **Certificate ID:** `APFKY82807` 
 - **Skills:** Database Querying, Data Manipulation, Advanced SQL Concepts
 
+#### **Zero to Hero in SQL**
+- **Provider:** Jobaaj Learnings
+- **Completed:** Sep 11, 2025
+- **Certificate ID:** `APFKY82807` 
+- **Skills:** Database Querying, Data Manipulation, Advanced SQL Concepts  
+
 #### **Microsoft Excel Complete Mastery**
 - **Provider:** Jobaaj Learnings
 - **Completed:** April 1, 2025
