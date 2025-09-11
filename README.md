@@ -56,7 +56,7 @@ Welcome! This GitHub profile serves as a portfolio of my journey in data analyti
 - **Provider:** Jobaaj Learnings
 - **Completed:** April 1, 2025
 - **Certificate ID:** `AUMCY80520` 
-- **Skills:** Advanced Excel Functions, Data Analysis, Pivot Tables, VBA
+- **Skills:** Advanced Excel Functions, Data Analysis, Pivot Tables & Charts
 
 #### **Data Core Concepts**
 - **Provider:** Jobaaj Learnings
